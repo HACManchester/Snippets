@@ -1,3 +1,5 @@
+# Welcome to Manchester Hackspace
+
 Thank you for joining Manchester Hackspace, welcome to our community!
 
 ## Housekeeping:
