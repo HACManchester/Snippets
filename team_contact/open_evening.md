@@ -1,0 +1,1 @@
+If you wish to come in, see our space and meet some of our members we have an open night every Wednesday from 6:30pm until 10pm. If you can't make a Wednesday evening please let us know and we'll try and arrange a member to meet you at a time more convenient to you.
