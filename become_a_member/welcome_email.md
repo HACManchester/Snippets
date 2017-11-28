@@ -20,8 +20,6 @@ If possible we like to organise for a member to meet you when you first come to 
 
 Certain equipment requires an induction so you don't hurt yourself or damage the machines for example: the Laser Cutter, 3D printers, sewing machines, lathe, and any equipment in the workshop with a "This is Bloody Dangerous" tag.  Our volunteer inductors organise these to fit around their schedules, some are ad-hoc and some are at set times and dates.  If you'd like to use one of these machines, ask on telegram or the forum and someone will point you in the right direction.
 
-If you have any questions, please do not hesitate to contact me directly via email, or ask the group on Telegram or the forum.
-
 ## Consumables
 
 We keep a small supply of regularly used things in the space (the full list is here: http://wiki.hacman.org.uk/Consumables), if you cant find something do the following:
@@ -29,3 +27,5 @@ We keep a small supply of regularly used things in the space (the full list is h
 1. ask someone in the space if they know where it is - if the answer is "we've run out GOTO 3"
 2. ask on telegram (https://hacman.org.uk/telegram) - still no joy finding it?
 3. email buyathng@hacman.org.uk to get us to buy some more OR if you need it urgently (and it's on the list) go buy some then email the receipt to treasurer@hacman.org.uk
+
+If you have any questions, please do not hesitate to contact me directly via email, or ask the group on Telegram or the forum.
