@@ -1,0 +1,26 @@
+# Laser Training Notes
+
+1. Download/Install/Setup Inkscape & Visicut
+    * Inkscape isn't necessary, we use it because it's open source and cross platform. If they already have an SVG editor they know and like they are free to use it.
+    * TK has a hacky solution to the weird scaling issue in visicut when importing designs not made in inkscape.
+1. Offer advice on their prepared design; ie. if it will cut well, issues they may have, whether it will take a long time.
+    * Their design should have a cut, a mark, and an engrave to fully demonstrate the laser
+1. Ask for their payment of £2 for the laser training
+1. Explain the moneybox and logbook, detailing why noting the time the laser is used is important
+1. Explain the scrap boxes, ensuring it is clear what is suitable scrap and what isn't
+    * If they haven't brought their own material they are welcome to use whatever is in the scrap boxes. Do ensure it's laser safe though.
+1. Explain laser's safety features
+    * Cooler interlock
+    * Lid interlock
+    * Big red "stop it now" button
+    * Laser status whiteboard
+1. Show them your example print and walk them through the process
+    * Ensure cooler is on and below minimum safe operating temperature
+    * Explain how to move the laser bed up/down and how the laser focuses
+    * Explain best ordering for printing; ie. Engrave, Mark, Cut Internal, Cut External
+    * Show how to make the laser display the cut boundaries
+    * Run your cut!
+1. Let them have a go, offering guidance as necessary
+1. Show them how to vac out the laser tray
+1. Ask if they have any final questions; offer a brief run down of everything covered above, explain notes are also on the wiki, and ask them to shout out in the telegram/forum/space if they have any questions
+1. Carry on about your day; or not, I'm not the boss of your life
