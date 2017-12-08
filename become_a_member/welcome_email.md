@@ -28,8 +28,8 @@ Certain equipment requires an induction so you don't hurt yourself or damage the
 
 We keep a small supply of regularly used things in the space (the full list is here: http://wiki.hacman.org.uk/Consumables), if you cant find something do the following:
 
-1. ask someone in the space if they know where it is - if the answer is "we've run out GOTO 3"
-2. ask on telegram (https://hacman.org.uk/telegram) - still no joy finding it?
-3. email buyathng@hacman.org.uk to get us to buy some more OR if you need it urgently (and it's on the list) go buy some then email the receipt to treasurer@hacman.org.uk
+1. ask someone in the space if they know where it is - if the answer is "we've run out" GOTO 3
+2. ask on telegram (https://hacman.org.uk/telegram)
+3. still no joy finding it? Email buyathing@hacman.org.uk to get us to buy some more OR if you need it urgently (and it's on the list) go buy some then email the receipt to treasurer@hacman.org.uk
 
-If you have any questions, please do not hesitate to contact me directly via email, or ask the group on Telegram or the forum.
+If you have any questions, please do not hesitate to contact me directly via email, or ask everyone via Telegram or the forum.
