@@ -10,7 +10,11 @@ Next, we'll need to get set up your membership payments. You should have already
 
 ## Chat with us
 
-Communities work best when we talk to each other and we're a talkative bunch. We have an extremely active Telegram Group ( https://hacman.org.uk/telegram ) and forum ( list.hacman.org.uk ). Telegram is a mobile/desktop app that allows easy real-time text chat for groups which we use for social chatter while our forum is more focused on discussion of projects, group orders and announcements regarding the space itself. If you're super keen to get involved there's a list of things we need assistance with here: https://hacman.org.uk/we-need-your-help/
+Communities work best when we talk to each other and we're a talkative bunch. We have an extremely active Telegram Group ( https://hacman.org.uk/telegram ) and forum ( list.hacman.org.uk ). Telegram is a mobile/desktop app that allows easy real-time text chat for groups which we use for social chatter while our forum is more focused on discussion of projects, group orders and announcements regarding the space itself. 
+
+If you're super keen to get involved there's a list of things we need assistance with here: https://hacman.org.uk/we-need-your-help/.
+
+Everyone is also welcome at the [Monthly Monday Member's Meeting](http://wiki.hacman.org.uk/MMMM) (4th Monday of the month) where most of the decisions regarding the running of the space are discussed/agreed upon.
 
 ## Access
 
