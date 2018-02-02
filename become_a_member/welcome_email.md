@@ -9,8 +9,8 @@ Now you've signed up, these are the things you need to do:
 * Set up your fob for 24/7 access - come in on an open evening or arrange access with a member, and you can set up your fob. Once the first payment has gone out you will have 24/7 access.
 
 ## Get involved in the talk
-* We use Telegram where we have our group chats: https://hacman.org.uk/telegram - the chat is very active!
-* We also have a forum which you can log into with your details for the website at http://list.hacman.org.uk/, this is more focused and is good for projects and replies.
+* We use Telegram where we have our group chats: https://hacman.org.uk/telegram - the main channel is very active!
+* We also have a forum (which you can log in to with your details from the website) at http://list.hacman.org.uk/, this is more focused and is good for projects and replies.
 * Everyone is also welcome at the [Monthly Monday Member's Meeting](http://wiki.hacman.org.uk/MMMM) (4th Monday of the month) where most of the decisions regarding the running of the space are discussed/agreed upon.
 
 ## Use the space and our tools
